@@ -17,7 +17,7 @@ const Inception ={
 };
 
 const After={
-     img:"https://upload.wikimedia.org/wikipedia/en/6/62/After_2019_film.png",
+     img:"https://m.media-amazon.com/images/M/MV5BNTMyNzY0NDMtNGUyYi00NmVhLWJiZTAtNDA2MzMzNzliNzk0XkEyXkFqcGc@._V1_.jpg",
      name:"After",
      Genre:"After (2019) is a romantic drama film directed by Jenny Gage, based on the novel by Anna Todd. The story follows Tessa Young, a dedicated student and loyal girlfriend, as she embarks on her first semester in college. Her world opens up when she meets Hardin Scott, a mysterious young man with a dark secret, leading to a tumultuous relationship",
      director:"Jenny Gage",
