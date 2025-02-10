@@ -1,0 +1,22 @@
+body{
+
+    text-align: center;
+}
+div{
+     margin-left: auto;
+     margin-right: auto;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    border: solid;
+}
+
+button{
+
+    width: 60px;
+    padding: 0 5px 0 5px;
+    background: #61ade4;
+    border-radius: 15px;
+    margin-top: 1rem;
+
+}
