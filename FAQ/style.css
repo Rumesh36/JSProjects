@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    text-align: center;
+    padding-top: 1rem;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid;
+    padding: 1rem;
+    background: #989595;
+    margin: 2rem 2rem;
+    border-radius: 14px;
+}
+button{
+    width: 50px;
+    height: 40px;
+    background: #0f4652;
+    border-radius: 8px;
+    color: white;
+}
+.ans{
+    margin: 2rem 2rem;
+    display: none;
+}
