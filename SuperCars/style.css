@@ -7,7 +7,7 @@ body{
     color: white;
 }
 
-h1{
+h2{
     text-align: center;
     
 }
@@ -21,13 +21,13 @@ h1{
 .p{
     text-align: center;
     color: rgb(186, 184, 184);
-    font-size: 0.9rem;
+    font-size: 0.7rem;
    line-height: 1.4rem;
 }
 
 img{
    display: block;
-   width: 85%;
+   width: 92%;
    margin-left: auto;
    margin-right: auto;
    margin-top: 1.5rem;
@@ -96,3 +96,17 @@ button:hover{
 .light-mode .fa-angle-left .fa-chevron-right{
     color: black;
 }
+@media screen and (max-width:600px) {
+    .fa-moon{
+        display: flex;
+        margin-top: 1rem;
+        flex-direction: row;
+        justify-content: flex-end;
+        margin-right: 1rem;
+    }
+  
+}
+.fa-angle-left,.fa-chevron-right{
+    font-size: 2.2rem;
+    
+ }
