@@ -91,3 +91,9 @@ document.getElementById("prev").addEventListener("click",()=>{
     }
     updateCarousel(curindex)
 })
+setInterval(()=>{
+
+    curindex=(curindex+1)%Images.length;
+    updateCarousel(curindex)
+ 
+ },3000)
