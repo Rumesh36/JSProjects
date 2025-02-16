@@ -96,4 +96,4 @@ setInterval(()=>{
     curindex=(curindex+1)%Images.length;
     updateCarousel(curindex)
  
- },3000)
+ },2000)
