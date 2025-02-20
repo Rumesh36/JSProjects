@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+   
+}
+
+.grid-center{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 0.5rem;
+    border: solid;
+    padding: 0.5rem;
+    background: #e5ce48;
+
+}
+
+.row-one,.row-two,.row-three{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.cell{
+    width: 80px;
+    height: 80px;
+    border-radius: 14px;
+    border: 2px solid;
+    font-size: 3rem;
+    background-color: aliceblue;
+}
+#reset{
+    width: 100px;
+    height: 50px;
+    margin-top: 2rem;
+    font-size: 1rem;
+    background: #35c5c8;
+    color: white;
+    border-radius: 14px;
+    font-size: 1.5rem;
+}
