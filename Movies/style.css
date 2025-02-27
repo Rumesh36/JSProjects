@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+
+}
+img{
+    width: 300px;
+    height: auto;
+}
+#input{
+
+    width: 200px;
+    height: 25px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+button{
+    width: 60px;
+    height: 25px;
+    background: #951d02;
+    color: white;
+    border-radius: 9px;
+}
+#movie{
+    color: red;
+}
+#year{
+    color: rgb(0, 34, 255);
+}
